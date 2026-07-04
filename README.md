@@ -45,6 +45,7 @@ these are the relics i'm releasing into the wild. do with them what you will.
 <img src="./Epilogue.png" alt="Odon" width="100%">
 
 [SoberCast](https://github.com/IAMOdon/SoberCast)
+[Macabre](https://github.com/IAMOdon/Macabre)
 
 ---
 
